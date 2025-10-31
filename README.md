@@ -63,9 +63,10 @@ Created Python scripts for data cleaning, automation, and API access.
 **Tools:** Python, Pandas, Jupyter Notebook  
 **Highlights:**  
 - Automated CSV processing and file organization  
-- Practiced functions, loops, and working with JSON data  
+- Practiced functions, loops, and working with JSON data
+- 
+https://github.com/enchill-svg/biomed-to-tech-portfolio/tree/main/projects/projects/python_for_everybody
 
-📁 [`/projects/python_for_everybody`](./projects/python_for_everybody)
 
 ---
 
