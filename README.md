@@ -65,7 +65,7 @@ Created Python scripts for data cleaning, automation, and API access.
 - Practiced functions, loops, and working with JSON data  
 - Integrated external APIs for geocoding tasks  
 
-🔗 [View Python Projects Folder →](https://github.com/enchill-svg/biomed-to-tech-portfolio/tree/main/projects/python_for_everybody)
+🔗 [View Python Projects Folder →](https://github.com/enchill-svg/biomed-to-techportfolio/tree/main/projects/python_for_everybody)
 
 ---
 
