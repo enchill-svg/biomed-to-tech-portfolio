@@ -1,7 +1,7 @@
 /*
 ==========================================
 PROJECT: A/B Testing Campaign Effectiveness
-AUTHOR: Muazu Siaka
+AUTHOR: Yewku Enchill-Yawson
 TOOLS: MySQL / SQLite
 DESCRIPTION:
     Simulated A/B test comparing two marketing email campaigns.
