@@ -26,3 +26,27 @@ To run the scripts, you’ll need:
 ### 1️⃣ Install Dependencies
 ```bash
 py -m pip install geopy requests pandas
+
+2️⃣ Run the Nominatim (Free) Script
+python geocode_nominatim.py
+
+
+This will:
+
+Look up sample locations (Accra, Kumasi, etc.)
+
+Display their coordinates and addresses
+
+Save batch results to geocoded_output.csv if run with csv argument:
+
+python geocode_nominatim.py csv
+
+3️⃣ Run the Google Maps Script
+
+Requires your API key to be stored as an environment variable:
+
+export GOOGLE_API_KEY="your_google_api_key"
+python geocode_google.py
+
+
+This version provides more accurate results and global coverage.
