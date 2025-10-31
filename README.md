@@ -31,7 +31,7 @@ It captures my learning journey through the first two phases of my Data & AI roa
 | Phase | Certificates & Courses | Key Skills |
 |-------|------------------------|-------------|
 | **Phase 1 (August – October 2025)** | • Google Data Analytics Professional Certificate  <br>• SQL for Data Science Specialization (UC Davis, Courses 1 & 2)  <br>• Python for Everybody – Univ. of Michigan | Data cleaning · Visualization · SQL queries · A/B testing · Python scripting |
-| **Phase 2 (October– Feb 2026)** | • Google Advanced Data Analytics Certificate  <br>• Google Cybersecurity Professional Certificate *(in progress)* | Statistical modeling · Machine learning basics · Regression & classification · Python for ML · Data security fundamentals |
+| **Phase 2 (October 2025– Feb 2026)** | • Google Advanced Data Analytics Certificate  <br>• Google Cybersecurity Professional Certificate *(in progress)* | Statistical modeling · Machine learning basics · Regression & classification · Python for ML · Data security fundamentals |
 
 ---
 
@@ -45,16 +45,17 @@ Analyzed 12 months of bike-share data to identify patterns in rider behavior and
 - Built interactive dashboards  
 - Delivered actionable business recommendations  
 
-📁 [`/projects/google_da_capstone`](./projects/google_da_capstone)
+
 
 ---
 
-### Project 2: SQL Analysis Projects – UC Davis  
+### Project 2: Learn SQL Analysis Projects – UC Davis  
 Developed SQL queries for business insights and A/B testing simulations.  
 **Tools:** MySQL, SQLite, VS Code  
 **Highlights:**  
 - Applied complex joins, aggregations, and subqueries  
-- Performed data wrangling for business case simulations  
+- Performed data wrangling for business case simulations
+- https://github.com/enchill-svg/biomed-to-tech-portfolio/tree/main/projects/sql_uc_davis
 
 ---
 
@@ -78,7 +79,7 @@ Built a predictive model to forecast employee attrition using machine learning t
 - Trained logistic regression and decision tree models  
 - Evaluated model performance and visualized results  
 
-📁 [`/projects/google_advanced_data_analytics_capstone`](./projects/google_advanced_data_analytics_capstone)
+
 
 ---
 
@@ -86,7 +87,7 @@ Built a predictive model to forecast employee attrition using machine learning t
 
 **Completed Certificates:**
 - Google Data Analytics Professional Certificate  
-- SQL for Data Science (UC Davis)  
+- Learn SQL for Data Science (UC Davis)  
 - Python for Everybody – University of Michigan  
 - Google Advanced Data Analytics Certificate  
 
@@ -110,9 +111,9 @@ Built a predictive model to forecast employee attrition using machine learning t
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** [linkedin.com/in/yourusername](#)  _(Links coming soon as portfolio site goes live)_  
-- **GitHub:** [github.com/yourusername](#)  
-- **Email:** your.email@example.com  
+- **LinkedIn:** https://www.linkedin.com/in/yewkuenchillyawson/(#)  _(Links coming soon as portfolio site goes live)_  
+- **GitHub:** https://github.com/enchill-svg(#)  
+- **Email:** enchillyawson@gmail.com  
 
 ---
 
