@@ -1,7 +1,7 @@
 /*
 ==========================================
 PROJECT: Customer Revenue & Retention Analysis
-AUTHOR: Muazu Siaka
+AUTHOR: Yewku Enchill-Yawson
 TOOLS: MySQL / SQLite
 DESCRIPTION:
     This project analyzes customer spending, sales performance, and retention trends.
